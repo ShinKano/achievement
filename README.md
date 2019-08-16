@@ -17,34 +17,107 @@
 * やってよかったこと、やらなくてもよかったかもしれないこと、など誰かの参考になったらうれしい
 
 
-### Plugins
 
-| Days  | Done                                                                              |
-| ----- | --------------------------------------------------------------------------------- |
-| Day1  | ProgateのHTML&CSS 初級                                                            |
-| Day2  | ProgateのHTML&CSS 中級                                                            |
-| Day3  | ProgateのHTML&CSS 道場 <br> 自分でもhtmlファイルを作ってみる                      |
-| day4  | 大アイキャッチ + 3カラムのよくあるウェブページ作成                                |
-| day5  | CSSとBOXモデルについて調べまくる + 練習                                           |
-| day6  | ProgateのJavaScript 初級                                                          |
-| day7  | ProgateのJavaScript 中級                                                          |
-| day8  | BootStrapを利用したウェブページ作成                                               |
-| day9  | ProgateのJavaScript 上級                                                          |
-| day10 | JavaScriptで電卓（もどき）を作成                                                  |
-| day11 | JavaScriptで投票サイト（もどき）作成 <br> ローカルストレージを使ってみる          |
-| day12 | ProgateのJavaScript 中級                                                          |
-| day13 | WesBosのJavaScript30.com                                                          |
-| day14 | WesBosのJavaScript30.com <br> (以降スキマ時間に視聴/意味不明すぎる場合はスキップ) |
-| day15 | 配列とオブジェクトについて調べまくる + 練習 <br> WesBosのJavaScript30.com         |
-| day16 | DOMについて調べる <br> Ajexを利用した外部APIの取り込み                            |
-| day17 | 効果的なGoogle検索の方法について学習 <br> Progateのjquery初級                     |
-| day18 | プロジェクトマネジメントについて（アジャイル・スクラム）                          |
-| day19 | ユーザーストーリーからバックログ、工数見積もりの方法                              |
-| day20 | WesBosのJavaScript30.com <br> ProgateのRuby 初級                                  |
-| day21 | WesBosのJavaScript30.com <br> ProgateのRuby 中級                                  |
-| day22 | Photoshopの使い方・画像の合成・レイヤー                                           |
-| day23 | PhotoshopのデータからHTML&CSSに完コピ（ToDoリスト）                               |
-| day24 | PhotoshopのデータからHTML&CSSに完コピ（１日目）                                   |
-| day25 | PhotoshopのデータからHTML&CSSに完コピ（2日目）                                    |
+# やったこと
 
+## 学習---1
+* ProgateのHTML&CSS 全部
 
+* 自分でHTMLファイルを作ってみる
+
+* CSSを加えて、大アイキャッチ + 3カラムにしてみる
+
+* CSSについて集中学習 + divをいっぱい作って練習
+    * Boxモデル
+    * float
+    * flex
+
+* BootStrapを使ってみる
+
+## 学習---2
+* ProgateのJavaScript 全部
+* Progateのjquery 初級
+
+* JavaScriptで電卓（もどき）を作成
+    * DOM操作
+
+* JavaScriptで投票サイト（もどき）作成
+    * ローカルストレージを使ってみる
+
+## 学習---3
+* WesBosの「JavaScript30.com」を学習
+
+* 配列とオブジェクトについて集中学習 + 練習
+
+* 為替レート取得ツールを作成
+    * Ajexを利用して外部APIを使ってみる
+
+* 効果的なGoogle検索の方法について学習
+
+* プロジェクトマネジメントについて（アジャイル・スクラム）を学ぶ
+
+* ユーザーストーリーからバックログ、工数見積もりの方法を学ぶ
+
+## 学習---4
+* 「Webを支える技術」を読む
+
+* ProgateのRuby 全部
+
+* ProgateのRuby on Rails 全部
+
+## 学習---5
+* Photoshopの基本操作・画像の合成・レイヤーを学ぶ
+
+* PhotoshopのデータからHTML&CSSに完コピ（ToDoリスト）
+
+* PhotoshopのデータからHTML&CSSに完コピ（ブログっぽいサイト）
+
+## 学習---6
+* Railsチュートリアル 1~8章まで（挫折）
+
+* 「プロを目指す人のためのRuby入門」（チェリー本）を読む
+
+* 「JavaScript本格入門」を読む
+
+## 学習---7
+* 「わかばちゃんと学ぶGit使い方入門」を読む
+
+* RaspberryPi を購入
+
+* 「RaspberryPiで始める機械学習」を読む（半分まで）
+
+## 学習---8
+* 「スラスラわかるPython」を読む
+
+* 自動でGoogle検索してTop3だけcsvに保存するスクレイピングを作る
+
+* Python学習サイト「PyQ」 をはじめる
+
+## 学習---9
+* WordPressの基礎を学ぶ
+
+* XAMPPでローカルサーバーにWordPress構築
+
+* WordPressでポートフォリオサイト作ってみる
+    * まずはフリーのテーマで一個作る
+    * そのあと、「_s」（アンダースコアエス）という空っぽのテーマで作る
+
+* サーバーとドメイン、ホスティングについて学ぶ
+    * GoDaddyでホスティング契約して自分のサイトをアップロードする
+    * FTPクライアント・FTPアカウントについて調べる
+
+* Sassを使い始める
+
+* 知り合いに頼んで、その人のWebサイトをWordPressで作らせてもらう
+
+## 学習---10
+* DarkskyApiで天気予報アプリを作る
+
+* Reactの基礎を学ぶ
+
+* hookを学ぶ
+
+* WesBosの「React for Beginer」
+
+## 学習---11
+* 法人サイト作成も受注する
