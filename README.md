@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# はじめに
 
-You can use the [editor on GitHub](https://github.com/ShinKano/achievement/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+プログラミング初心者 @Shincoding の学習の記録です。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 自己紹介
 
-### Markdown
+* プログラミング初心者です。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* フィリピンでプログラミングを勉強しています。（ただし、日本人向けではなく現地フィリピン人向けの学校に格安で通っています）
 
-```markdown
-Syntax highlighted code block
+* これを書いている時点で、プログラミング歴ちょうど2ヶ月です。
 
-# Header 1
-## Header 2
-### Header 3
+## このドキュメントの目的
 
-- Bulleted
-- List
+* 自分のスキルや学んだ内容の棚卸し
 
-1. Numbered
-2. List
+* やってよかったこと、やらなくてもよかったかもしれないこと、など誰かの参考になったらうれしい
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Plugins
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Dillinger is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShinKano/achievement/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| Days             | Done                                      |
+| ---------------- | ----------------------------------------- |
+| Day1             | ProgateのHTML&CSS　<br> ProgateのHTML&CSS |
+| GitHub           | [plugins/github/README.md][PlGh]          |
+| Google Drive     | [plugins/googledrive/README.md][PlGd]     |
+| OneDrive         | [plugins/onedrive/README.md][PlOd]        |
+| Medium           | [plugins/medium/README.md][PlMe]          |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| Medium           | [plugins/medium/README.md][PlMe]          |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
