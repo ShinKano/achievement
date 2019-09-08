@@ -8,7 +8,7 @@
 
 * フィリピンでプログラミングを勉強しています。（ただし、日本人向けではなく現地フィリピン人向けの学校に格安で通っています）
 
-* これを書いている時点で、プログラミング歴ちょうど2ヶ月です。
+* これを書いている時点で、プログラミング歴ちょうど3ヶ月です。
 
 ## このドキュメントの目的
 
@@ -58,6 +58,11 @@
 * プロジェクトマネジメントについて（アジャイル・スクラム）を学ぶ
 
 * ユーザーストーリーからバックログ、工数見積もりの方法を学ぶ
+
+
+
+---ここまで30日
+
 
 ## 学習---4（学校が休みだったのでRubyに手を出した時期）
 * 「Webを支える技術」を読む
@@ -120,8 +125,46 @@
 
 * WesBosの「React for Beginer」
 
-## 学習---11（現在）
+## 学習---11（Wordpressじゃなくてコード書きたい〜期）
 * 法人サイト作成も受注する
+
+
+
+---ここまで60日---
+
+
+## 学習---12（PHPの基礎）
+* PHPを基礎から学ぶ
+
+* 手始めにツイッターのようなマイクロポストサービスをスクラッチから作る
+   * PhpMyAdminでデータベースを作る
+   * MySQLでデータベースとやりとりできる
+   * MySQLだけでなく、PDOも使える
+   * インジェクション対策のサニタイズ（マダ。要勉強。）
+
+## 学習13（PHP => JSON API => JS）
+* PHPをHTMLに埋め込むことなく、MySQLデータベースを操作する
+   * functions.php内で処理を完結し、JSONフォーマット化してJSでフェッチする
+   * JSでDOM操作して、JSONの内容を表示させる
+
+* Reactでもやってみる
+   * フェッチしたJSONをStateに格納=>更新時に再レンダリングされる。
+
+##学習14（Pythonの学習）
+* PyQの初心者編を終了（長かった...）
+   * いまのところさしあたって使う予定が無いため一旦購読を終了。
+
+##学習15（React-Staticをやってみる）
+* Wordpressより今は静的サイトがアツいと聞きかじり、静的サイトジェネレータのReact-Staticに挑戦
+   * パッケージマネージャの役割をようやくざっくりと理解
+   * ライブラリのインポートで作っていく手法に慣れる
+   * 本番用ビルドについて知る
+   * HeadlessCMSとしてStrapiを使う=>Herokuにデプロイして使う
+   * React-StaticはNetlifyにデプロイ。Githubへのpushをトリガーにして自動でビルドコマンドが起動する（すごい！）
+   * Styled-Componentを使う。（めっちゃ便利！）
+   * LPををReactで作る（アトミックデザインにも挑戦）
+
+---ここまで90日
 
 
 ---
@@ -142,6 +185,11 @@
 * **WesBos**
     * JavaScript30
     * React for Beginer
+    * asyncとawaitの解説: https://youtu.be/DwQJ_NPQWWo
+    
+* **Nozzle**
+   * React Static Intro with Styled Components: https://youtu.be/KvlTVZPlmgs
+   * A progressive static-site framework for React @ OgdenJS: https://youtu.be/OqbJ5swVpDQ
 
 
 * **Railsチュートリアル**
