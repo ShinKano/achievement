@@ -20,174 +20,107 @@
 
 ---
 
-# これまでにやったこと
 
-## 学習---1（HTML&CSS・基礎中の基礎）
+
+# 学習開始〜30日目まで
+## HTML&CSS・基礎中の基礎など
 * ProgateのHTML&CSS 全部
-
 * 自分でHTMLファイルを作ってみる
-
-* CSSを加えて、大アイキャッチ + 3カラムにしてみる
-
-* CSSについて集中学習 + divをいっぱい作って練習
-    * Boxモデル
-    * float
-    * flex
-
+* CSSについて学習
 * BootStrapを使ってみる
 
-## 学習---2（Javascriptの基礎）
+## JavaScriptの学習
 * ProgateのJavaScript 全部
-
-* JavaScriptで電卓（もどき）を作成
-    * DOM操作
-
-* JavaScriptで投票サイト（もどき）作成
-    * ローカルストレージを使ってみる
-
-## 学習---3 （JavaScriptが面白くて沢山やった時期）
-* WesBosの「JavaScript30.com」を学習
-
-* 配列とオブジェクトについて集中学習 + 練習
-
+* JavaScriptで電卓を作成
+	* DOM操作について学ぶ
+* JavaScriptで投票サイト作成
+	* ローカルストレージを使ってみる
+* WesBosの「JavaScript30.com」で学習
+* 配列とオブジェクトについて学習
 * 為替レート取得ツールを作成
-    * Ajexを利用して外部APIを使ってみる
+	* Ajexを利用して外部APIを使ってみる
 
-* 効果的なGoogle検索の方法について学習
-
+## その他
 * プロジェクトマネジメントについて（アジャイル・スクラム）を学ぶ
-
 * ユーザーストーリーからバックログ、工数見積もりの方法を学ぶ
 
 
-
-# ---ここまで30日---
-
-
-## 学習---4（学校が休みだったのでRubyに手を出した時期）
-* 「Webを支える技術」を読む
-
+# 31日目〜60日目
+## Rubyの学習
 * ProgateのRuby 全部
-
 * ProgateのRuby on Rails 全部
+* 「プロを目指す人のためのRuby入門」を読む
 
-## 学習---5（大変だったけどHTML&CSSに自信がついた）
+## マークアップ言語も継続して学習
 * Photoshopの基本操作・画像の合成・レイヤーを学ぶ
+* PhotoshopのデザインデータをHTML&CSSでマークアップ（ToDoリスト）
+* PhotoshopのデザインデータをHTML&CSSでマークアップ（ニュースサイト）
 
-* PhotoshopのデータからHTML&CSSに完コピ（ToDoリスト）
-
-* PhotoshopのデータからHTML&CSSに完コピ（ブログっぽいサイト）
-
-## 学習---6（Rails難しくて挫折）
-* Railsチュートリアル 1~8章まで（挫折）
-
-* 「プロを目指す人のためのRuby入門」（チェリー本）を読む
-
-* 「JavaScript本格入門」を読む
-
-## 学習---7（Rails難しくてかわいいRaspBerryPiちゃんに逃避）
-* 「わかばちゃんと学ぶGit使い方入門」を読む
-
+## RaspberryPiを購入
 * RaspberryPi を購入
+* 「RaspberryPiで始める機械学習」を読む
 
-* 「RaspberryPiで始める機械学習」を読む（半分まで）
-
-## 学習---8（ラズパイがPythonを要求してきた）
+## Pythonの学習
 * 「スラスラわかるPython」を読む
+*  Python学習サイト「PyQ」 をはじめる
+* Google検索Top3のタイトルを抽出しcsvで保存するスクレイピングプログラムを作る
 
-* 自動でGoogle検索してTop3だけcsvに保存するスクレイピングを作る
-
-* Python学習サイト「PyQ」 をはじめる
-
-## 学習---9（WordPressでかっこいいサイトを作ろう！期）
-* WordPressの基礎を学ぶ
-
+## WordPressの学習
 * XAMPPでローカルサーバーにWordPress構築
-
-* WordPressでポートフォリオサイト作ってみる
-    * まずはフリーのテーマで一個作る
-    * そのあと、「_s」（アンダースコアエス）という空っぽのテーマで作る
-
 * サーバーとドメイン、ホスティングについて学ぶ
-    * GoDaddyでホスティング契約して自分のサイトをアップロードする
-    * FTPクライアント・FTPアカウントについて調べる
+	* GoDaddyでホスティング契約して自分のサイトをアップロードする
+	* FTPクライアント・FTPアカウントについて調べる
 
-* Sassを使い始める
-
-* 知り合いに頼んで、その人のWebサイトをWordPressで作らせてもらう
-
-## 学習---10（WPだけじゃなくてJSも触りたい...ん？React...??）
-* DarkskyApiで天気予報アプリを作る
-
+## その他・React等
+* DarkskyAPIを利用した天気予報アプリを作る
 * Reactの基礎を学ぶ
-
-* hookを学ぶ
-
-* WesBosの「React for Beginer」
-
-## 学習---11（Wordpressじゃなくてコード書きたい〜期）
-* 法人サイト作成も受注する
+* React Hooksを学ぶ
+* WesBosの「React for Beginer」コースを修了
 
 
+# 61日目〜90日目
+## PHPの学習
+* PHPを基礎文法を学ぶ
+* ツイッターのようなマイクロポストサービスをスクラッチから作る
+	* PhpMyAdminからデータベースを作る
+	* MySQL、PDOについて学習
+	* インジェクション対策のサニタイズについて学習
+* Reactでもマイクロポストサービスを作る
+   * フェッチしたJSONデータをStateに格納=>更新時に再レンダリングされる。
 
-# ---ここまで60日---
+## Pythonの学習
+* PyQの初心者編を修了
 
+## Reactフレームワークの学習
+* 静的サイトジェネレータの「React-Static」を使用してみる
+	* パッケージマネージャ、本番用ビルドについて知る
+	* HeadlessCMS「Strapi」を使う
+	* 「Heroku」や「Netlify」にデプロイする
+	* Styled-Componentを使う
 
-## 学習---12（PHPの基礎）
-* PHPを基礎から学ぶ
-
-* 手始めにツイッターのようなマイクロポストサービスをスクラッチから作る
-   * PhpMyAdminでデータベースを作る
-   * MySQLでデータベースとやりとりできる
-   * MySQLだけでなく、PDOも使える
-   * インジェクション対策のサニタイズ（マダ。要勉強。）
-
-## 学習13（PHP => JSON API => JS）
-* PHPをHTMLに埋め込むことなく、MySQLデータベースを操作する
-   * functions.php内で処理を完結し、JSONフォーマット化してJSでフェッチする
-   * JSでDOM操作して、JSONの内容を表示させる
-
-* Reactでもやってみる
-   * フェッチしたJSONをStateに格納=>更新時に再レンダリングされる。
-
-## 学習14（Pythonの学習）
-* PyQの初心者編を終了（長かった...）
-   * いまのところさしあたって使う予定が無いため一旦購読を終了。
-
-## 学習15（React-Staticをやってみる）
-* Wordpressより今は静的サイトがアツいと聞きかじり、静的サイトジェネレータのReact-Staticに挑戦
-   * パッケージマネージャの役割をようやくざっくりと理解
-   * ライブラリのインポートで作っていく手法に慣れる
-   * 本番用ビルドについて知る
-   * HeadlessCMSとしてStrapiを使う=>Herokuにデプロイして使う
-   * React-StaticはNetlifyにデプロイ。Githubへのpushをトリガーにして自動でビルドコマンドが起動する（すごい！）
-   * Styled-Componentを使う。（めっちゃ便利！）
-   * LPををReactで作る（アトミックデザインにも挑戦）
+# 91日目〜120日目
+## React + Firebaseでマイクロポストサービスを作る
+ * JSON構造のNoSQLデータベースを学ぶ
+ * ログイン機能はFirebaseのAuthenticationを利用
+ * 各ポストはRealtimeデータベースを使用
 
 
-
-# ---ここまで90日---
-
-
-## 学習16（React + Firebaseでマイクロポストアプリを作る）
-* データベースとしてGoogle Firebaseを使用し、ツイッターのようなアプリを作る
-   * JSON構造のNoSQLデータベースを学ぶ
-   * ログイン機能はFirebaseのAuthentificationを利用
-   * 各ポストはRealtimeデータベースを使用し、ページの更新をかけなくてもリアルタイムでデータベースの変更が反映される（サブスク）
-   * Like機能も追加
-   * フロント側はReact
-   * Netlifyでデプロイ。githubへのプッシュで自動ビルドされる。
+# 121日目〜現在
+## 語学学校のWeb担当としてアルバイト
+* LP作成
+	* http://www.storyshare.jp/working-holiday/
+* Gatsby.js（CMS）を使用してWebサイト作成
+	* https://www.ss-guesthouse.com/
 
 
 # 使った教材の一覧
-
 ## オンライン学習サイト
 
 * **Progate**
-    * HTML&CSS 全部
-    * JavaScript 全部
-    * Ruby
-    * Ruby on Rails
+    * HTML&CSS 全て
+    * JavaScript 全て
+    * Ruby全て
+    * Ruby on Rails全て
 
 * **PyQ**
     * 初級コース
@@ -218,4 +151,3 @@
 * 「スラスラわかるPython」
 
 * 「RaspberryPiで始める機械学習」
-
